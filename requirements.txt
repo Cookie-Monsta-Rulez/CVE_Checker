@@ -1,0 +1,7 @@
+requests
+tqdm
+colorama
+sentence_transformers
+pandas
+faiss-cpu
+numpy
